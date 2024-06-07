@@ -1,4 +1,4 @@
-## Hi there 👋 I´am Gabriel Ponce
+## Hi there 👋 I´m Gabriel Ponce
 
 <h3>😃Acerca de mí</h3>
 ¡Hola! Soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de Bahía Blanca, Buenos Aires, Argentina. Actualmente, estoy cursando mi tercer cuatrimestre y espero finalizar la tecnicatura el próximo cuatrimestre. Como parte de los requisitos para obtener el título, debo realizar una pasantía de 60 horas que constituirá la práctica profesional necesaria.
