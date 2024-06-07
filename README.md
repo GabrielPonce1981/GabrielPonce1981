@@ -49,10 +49,6 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
   </td>
 </tr>
 </table>
-<a href="https://github.com/GabrielPonce1981">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielPonce1981&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielPonce1981&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
 <br></br>
 
 <!--- stats (end) -->
