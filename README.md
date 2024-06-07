@@ -20,18 +20,18 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 <h3> 📊 Estadisticas en GitHub </h3>
 
 <table border="0" align="center">
-<tr border="0">
+<tr border="1">
   <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GabrielPonce1981&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GabrielPonce1981&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPonce1981&theme=dark&hide_border=true&count_private=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPonce1981&theme=dark&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabrielPonce1981&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabrielPonce1981&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&count_private=true&include_all_commits=true&count_private=true"/>
   
   </td>
 </tr>
