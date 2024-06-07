@@ -9,10 +9,22 @@ Mi experiencia laboral me ha proporcionado habilidades valiosas en la gestión d
 
 Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes alguna pregunta o proyecto en mente, no dudes en contactarme.
 
+<h3 align="left" >Connect with me 🤝 </h3>
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/gabrielandresponce" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GabrielPonce"/></a>
+  <a href = "mailto:poncegabrielandres@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@poncegabriel"  /></a>
+
+</p>
+
+
+
+
 <h3> 💻 Conocimientos - Habilidades</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,bootstrap,java" align="left"> 
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,bootstrap,java,git" align="left"> 
 </div>
+
 
 <br></br>
 
