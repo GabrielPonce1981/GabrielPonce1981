@@ -35,7 +35,8 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 <tr border="1">
   <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GabrielPonce1981&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielPonce1981&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPonce1981&theme=dark&hide_border=true&count_private=true&include_all_commits=true&count_private=true" />
 
@@ -48,6 +49,10 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
   </td>
 </tr>
 </table>
+<a href="https://github.com/GabrielPonce1981">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielPonce1981&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielPonce1981&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 <br></br>
 
 <!--- stats (end) -->
