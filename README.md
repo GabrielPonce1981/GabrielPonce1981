@@ -13,7 +13,7 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 <p align="left">
   
   <a href="https://www.linkedin.com/in/gabrielandresponce" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GabrielPonce"/></a>
-  <a href = "mailto:poncegabrielandres@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@poncegabriel"  /></a>
+  <a href = "mailto:poncegabrielandres@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@poncegabrielandres"  /></a>
 
 </p>
 
