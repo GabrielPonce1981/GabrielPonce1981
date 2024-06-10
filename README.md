@@ -9,6 +9,8 @@ Mi experiencia laboral me ha proporcionado habilidades valiosas en la gestión d
 
 Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes alguna pregunta o proyecto en mente, no dudes en contactarme.
 
+---
+
 <h3> 💻 Conocimientos - Habilidades</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,bootstrap,java,git" align="left"> 
@@ -17,6 +19,7 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 
 <br></br>
 
+---
 
 <h3> 📊 Estadisticas en GitHub </h3>
 
