@@ -14,7 +14,7 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 <h3> 📧 Contacto</h3>
 <div align="center">
 <div align="center">
-<a href="https://www.gmail.com/mailto:poncegabrielandres.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+<a href="https://www.gmail.com/poncegabrielandres.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 
 
   
