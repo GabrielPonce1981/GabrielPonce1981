@@ -11,6 +11,16 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 
 ---
 
+<h3> 📧 Contacto</h3>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielandresponce/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:poncegabrielandres@gmail.com)](mailto:poncegabrielandres@gmail.com)
+
+</div>
+
+---
+
 <h3> 💻 Conocimientos - Habilidades</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,bootstrap,java,git" align="left"> 
