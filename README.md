@@ -1,7 +1,7 @@
 ## Hi there 👋 I´m Gabriel Ponce
 
 <h3>😃Acerca de mí</h3>
-¡Hola! Soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de Bahía Blanca, Buenos Aires, Argentina. Actualmente, estoy cursando mi tercer cuatrimestre y espero finalizar la tecnicatura el próximo cuatrimestre. Como parte de los requisitos para obtener el título, debo realizar una pasantía de 60 horas que constituirá la práctica profesional necesaria.
+¡Hola! Soy estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de Bahía Blanca, Buenos Aires, Argentina. Actualmente, estoy cursando mi tercer cuatrimestre y espero finalizar la tecnicatura el próximo. Como parte de los requisitos para obtener el título, debo realizar una pasantía de 60 horas que constituirá la práctica profesional necesaria.
 
 Actualmente trabajo en un concesionario oficial Volkswagen, mi carrera en esta empresa comenzó en 2011, donde trabajé como vendedor hasta 2017. Luego, asumí el rol de supervisor, posición que mantuve hasta finales de 2022, momento en el que decidí comenzar con mis estudios de progamador.
 
