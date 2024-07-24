@@ -13,14 +13,8 @@ Estoy abierto a nuevas oportunidades de aprendizaje y colaboración. Si tienes a
 
 <h3> 📧 Contacto</h3>
 <div align="center">
-<div align="center">
-
-<a href = "mailto:poncegabrielandres@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://linkedin.com/in/gabrielandresponce" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielandresponce/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:poncegabrielandres@gmail.com)](mailto:poncegabrielandres@gmail.com)
-
+  <a href = "mailto:poncegabrielandres@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://linkedin.com/in/gabrielandresponce" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 </div>
 
 ---
